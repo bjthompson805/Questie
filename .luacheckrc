@@ -1754,6 +1754,8 @@ globals = {
     "LE_EXPANSION_BURNING_CRUSADE",
     "LE_QUEST_FREQUENCY_DAILY",
     "LE_QUEST_FREQUENCY_WEEKLY",
+    "LE_PARTY_CATEGORY_HOME",
+    "LE_PARTY_CATEGORY_INSTANCE",
     "LearnTalent",
     "LeaveBattlefield",
     "LeaveChannelByLocalID",
